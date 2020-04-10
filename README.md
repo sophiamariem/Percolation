@@ -49,16 +49,16 @@ https://lift.cs.princeton.edu/java/linux/ for libs and steps to install
 
 ### Example Usage
 
-javac-algs4 PercolationStats.java
+`javac-algs4 PercolationStats.java`
 
-java-algs4 PercolationStats 200 100
+`java-algs4 PercolationStats 200 100`
 
 ***
 
 ### Reporting
 
-spotbugs Percolation.class
+`spotbugs Percolation.class`
 
-pmd Percolation.java
+`pmd Percolation.java`
 
-checkstyle -coursera Percolation.java
+`checkstyle -coursera Percolation.java`
